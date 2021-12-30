@@ -9,7 +9,7 @@ I have created a weather App using weather API.This App will give you live weath
 React.js(useState,useEffect,API)
 
 # 3.Live Demo
-https://weather-forecast-app-by-khushbu-nakaht.netlify.app/
+https://weather-forecast-app-by-khushbu-nakhat.netlify.app/
 
 
 # 4.Features
