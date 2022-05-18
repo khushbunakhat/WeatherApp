@@ -6,10 +6,10 @@ I have created a weather App using weather API.This App will give you live weath
 
 # 2.Technologies
 
-React.js(useState,useEffect,API)
+React.js(useState,useEffect,API,react-detect-offline)
 
 # 3.Live Demo
-This app is deployed globally in netlify.so you can access the site with this link.
+This app is deployed globally in netlify.so you can access the site live with this link.
 
 https://weather-forecast-app-by-khushbu-nakhat.netlify.app/
 
